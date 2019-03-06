@@ -1,0 +1,14 @@
+.vs/
+src/SG.Scheduler.Console/obj/
+src/SG.Scheduler.Console/bin/
+src/SG.Scheduler.Configuration/obj/
+src/SG.Scheduler.Configuration/bin/
+src/Configuration.Test/bin/
+src/Configuration.Test/obj/
+src/SG.Scheduler.ConfigurationExtensions/bin/
+src/SG.Scheduler.ConfigurationExtensions/obj/
+*.json
+src/WebApplication1/
+src/Logger.Test/obj/
+src/SG.Scheduler.Logger/obj/
+src/SG.Scheduler.Logging.NLog/obj/
